@@ -1,0 +1,11 @@
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\bin\Debug\netcoreapp2.0\EvaluacionNetWeb.deps.json
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\bin\Debug\netcoreapp2.0\EvaluacionNetWeb.runtimeconfig.json
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\bin\Debug\netcoreapp2.0\EvaluacionNetWeb.runtimeconfig.dev.json
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\bin\Debug\netcoreapp2.0\EvaluacionNetWeb.dll
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\bin\Debug\netcoreapp2.0\EvaluacionNetWeb.pdb
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\obj\Debug\netcoreapp2.0\EvaluacionNetWeb.csprojResolveAssemblyReference.cache
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\obj\Debug\netcoreapp2.0\EvaluacionNetWeb.csproj.CoreCompileInputs.cache
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\obj\Debug\netcoreapp2.0\EvaluacionNetWeb.AssemblyInfoInputs.cache
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\obj\Debug\netcoreapp2.0\EvaluacionNetWeb.AssemblyInfo.cs
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\obj\Debug\netcoreapp2.0\EvaluacionNetWeb.dll
+C:\Users\exe_6\Desktop\Zeroexe\GitHub\EvaluacionNetWeb\EvaluacionNetWeb\obj\Debug\netcoreapp2.0\EvaluacionNetWeb.pdb

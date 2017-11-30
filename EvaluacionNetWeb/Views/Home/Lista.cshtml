@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Profesores>
+@{
+    ViewData["Title"] = "Lista";
+}
+@using (Html.BeginForm("Ficha", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+<h2>Listado de Profesores</h2>
+
+<hr />
+
+<table class="table table-bordered table-hover">
+    <thead>
+
+    <th>Nombre Completo</th>
+    <th>Rut</th>
+    <th>Titulo</th>
+    <th>Grado Profesional</th>
+    <th>Accion</th>
+    
+    </thead>
+
+    @foreach (Profesores profesor in Model)
+    {
+        <tr>
+            <td> @Html.DisplayFor(i => profesor.nombrecompleto)</td>
+            <td> @Html.DisplayFor(i => profesor.rut)</td>
+            <td> @Html.DisplayFor(i => profesor.titulo)</td>
+            <td> @Html.DisplayFor(i => profesor.gradoprofesional)</td>
+            <td> @Html.ActionLink("Ver", "Visualizar", "Home", new { rut = profesor.rut }, null) </td>
+        </tr>
+
+    }
+</table>
+}
